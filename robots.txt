@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://gukefoto.github.io/sitemap/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/sMZ/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/Fgb/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/uSE/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/ALY/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/PVi/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/egT/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/Unb/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/SAl/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/gne/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/hjU/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/ViC/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/uHi/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/Lpd/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/ALY/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/sJu/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/rmL/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/uFn/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/iOJ/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/cSF/sitemap_index.gukefoto
+Sitemap: https://gukefoto.github.io/jwn/sitemap_index.gukefoto
